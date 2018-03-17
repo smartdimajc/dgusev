@@ -4,7 +4,7 @@ package ru.job4j;
  *Calculate. Решение задачи в части 001 урок 1.
  *
  *@author Gusev Dmitry (smartdima@rambler.ru)
- *@since 05.11.2018
+ *@since 17.03.2018
  */
 public class Calculate {
 
